@@ -1,0 +1,175 @@
+HTML {
+	/*Stops the iPhone automatically adjusting the font size based on the amount of text it has to display - see http://developer.apple.com/safari/library/documentation/AppleApplications/Reference/SafariWebContent/AdjustingtheTextSize/chapter_5_section_3.html*/
+	-webkit-text-size-adjust: none;
+}
+BODY {
+	font-family: Verdana, Arial, sans-serif;
+	font-size: 1.2em;
+	margin-bottom: 10px;
+	margin-left: 8px;
+	padding-left: 8px;
+	margin-right: 8px;
+	padding-right: 8px;
+	word-wrap:break-word;
+}
+
+A:link {
+	text-decoration: none;
+}
+
+A:visited {
+	color: #0000ee;
+	text-decoration: none;
+}
+
+A:hover {
+	text-decoration: underline;
+}
+
+TABLE {
+	font-size: 0.75em;
+	text-align: left;
+	border-collapse: collapse;
+	border-bottom: 1px solid black;
+	margin-top: 15px;
+	margin-bottom: 18px;
+}
+
+TR {
+	vertical-align: middle;
+}
+
+TH{
+	padding: 0px 0px 4px 0px;
+	border-bottom: 1px solid black;
+}
+
+TD {
+	padding: 0px 15px 0px 0px;
+	line-height: 1.4em;
+}
+
+TD:first-child {
+	width: 11%;
+	padding-right: 20px;
+}
+
+TD.special-top-padding {
+	padding-top: 8px;
+}
+
+TD > img {
+	width: 48px;
+	height: 78px;
+}
+
+IMG.logo {
+	display: block;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+IMG.smaller-size-button {
+	width: 30px;
+	vertical-align: -4px;
+}
+
+IMG.text-size-button {
+	width: 20px;
+	vertical-align: -8px;
+}
+
+IMG.bigger-size-button {
+	width: 35px;
+	vertical-align: -7px;
+}
+
+IMG.toolbar-button {
+	width: 30px;
+	vertical-align: -12px;
+}
+
+DIV.about {
+	margin-left: 4px;
+}
+
+P {
+	line-height: 1.4em;
+	margin-top: 9px;
+	margin-bottom: 9px;
+	font-size: 0.75em;
+}
+
+P.heading1 {
+	font-weight: bold;
+	font-size: 1.0em;
+	margin-bottom: 13px;
+	margin-top: 20px;
+}
+
+P.heading1-top{
+	font-weight: bold;
+	font-size: 1.0em;
+	margin-bottom: 13px;
+	margin-top: 5px;
+}
+
+P.heading2 {
+	font-weight: bold;
+	margin-top: 14px;
+}
+
+IMG.maccommand {
+	width: 36px;
+	vertical-align: -5px;
+}
+
+IMG.keyboard, .mousemode {
+	width: 24px;
+	vertical-align: -6px;
+}
+
+IMG.screenshot {
+  width: 260px;
+}
+
+UL {
+	font-size: 0.75em;
+	margin-left: -23px;
+	margin-top: 9px;
+	margin-bottom: 9px;
+}
+
+OL {
+	font-size: 0.75em;
+	margin-left: -19px;
+}
+
+LI {
+	line-height: 1.4em;
+	margin-top: 9px;
+	margin-bottom: 9px;
+}
+
+UL UL {
+	font-size: 1.00em;
+	list-style-type: disc;	
+}
+
+UL P {
+	font-size: 1.0em;
+}
+
+CODE {
+	font-size: 1.3em;
+}
+
+.tablet {
+  display: inline;
+}
+
+.handset {
+  display: inline;
+}

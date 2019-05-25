@@ -1,0 +1,1764 @@
+{
+  "- Closed"
+  "- 关闭"
+}
+{
+  "- New team"
+  "- 新团队"
+}
+{
+  "- Open"
+  "- 打开"
+}
+{
+  "- Selected"
+  "- 选中"
+}
+{
+  "- Warning"
+  "- 警告"
+}
+{
+  "2-Step Verification Required"
+  "需要两步验证"
+}
+{
+  "2-step verification"
+  "两步验证"
+}
+{
+  "2-step verification has been enabled"
+  "已启用两步验证"
+}
+{
+  "2-step verification method"
+  "两步验证方法"
+}
+{
+  "< Swipe left for more keys"
+  "< 向左滑动可获得更多按键"
+}
+{
+  "API Version"
+  "API 版本"
+}
+{
+  "About"
+  "关于"
+}
+{
+  "About VNC Viewer"
+  "关于 VNC Viewer"
+}
+{
+  "Access denied"
+  "拒绝访问"
+}
+{
+  "Access is denied to this team.<br/><br/><a href={{URL}}>Manage account online</a>"
+  "此团队拒绝访问。<br/><br/><a href={{URL}}>在线管理帐户</a>"
+}
+{
+  "Access to one or more of your teams is denied.\nPlease select each affected team in the sidebar for further details."
+  "拒绝访问您的一个或多个团队。\n请选择侧栏中的每个受影响的团队以获取更多详细信息。"
+}
+{
+  "Access your computers on the go"
+  "随时随地访问您的计算机"
+}
+{
+  "Acknowledgements"
+  "致谢"
+}
+{
+  "Address"
+  "地址"
+}
+{
+  "Address Book"
+  "地址簿"
+}
+{
+  "Address Book Screen"
+  "地址簿屏幕"
+}
+{
+  "Advanced"
+  "高级"
+}
+{
+  "Advertising ID for DSR"
+  "DSR 的广告 ID"
+}
+{
+  "Alert Message"
+  "警报信息"
+}
+{
+  "All"
+  "所有"
+}
+{
+  "Allow anonymous analytics"
+  "允许匿名分析"
+}
+{
+  "Allow keys and taps to be sent to the server"
+  "允许将键和分接头发送到服务器"
+}
+{
+  "Android ID for DSR"
+  "DSR 的 Android ID"
+}
+{
+  "App: Device Screen Properties"
+  "应用程序：设备屏幕属性"
+}
+{
+  "App: Label Connections"
+  "应用程序：标签连接"
+}
+{
+  "App: Labels Synced"
+  "应用程序：标签已同步"
+}
+{
+  "App: Orientation Changed"
+  "应用程序：方向已更改"
+}
+{
+  "App: Was In Background"
+  "应用程序：在后台"
+}
+{
+  "Apple Screen Sharing"
+  "Apple 屏幕共享"
+}
+{
+  "Application"
+  "应用"
+}
+{
+  "Application version"
+  "应用版本"
+}
+{
+  "Are you sure you want to connect?"
+  "你确定要连接吗？"
+}
+{
+  "Are you sure you want to disconnect?"
+  "你确定要断开连接吗？"
+}
+{
+  "As this is your first time, we'd like to show you some gestures that will help you take control."
+  "由于这是您第一次，我们想向您展示一些可以帮助您控制的方式。"
+}
+{
+  "Attach log?"
+  "附上日志？"
+}
+{
+  "Authentication"
+  "身份验证"
+}
+{
+  "Authentication failed"
+  "身份验证失败"
+}
+{
+  "Authentication timed out"
+  "身份验证超时"
+}
+{
+  "Authenticator"
+  "认证"
+}
+{
+  "Auto Correct"
+  "自动修正"
+}
+{
+  "Auto Sign In"
+  "自动登录"
+}
+{
+  "Automatic"
+  "自动"
+}
+{
+  "Automatic discovery with..."
+  "用...自动发现"
+}
+{
+  "Automatically discover and seamlessly connect to computers running VNC Connect."
+  "自动发现并无缝连接到运行 VNC Connect 的计算机。"
+}
+{
+  "Backup"
+  "备份"
+}
+{
+  "Beta Options"
+  "Beta 选项"
+}
+{
+  "CONNECT"
+  "连接"
+}
+{
+  "Cancel"
+  "取消"
+}
+{
+  "Cannot connect"
+  "无法连接"
+}
+{
+  "Catchphrase"
+  "口令"
+}
+{
+  "Certificates"
+  "证书"
+}
+{
+  "Certificates can be deleted by accessing your device's Settings and selecting 'User credentials'."
+  "可以通过访问设备的设置并选择“用户凭据”来删除证书。"
+}
+{
+  "Choose certificate"
+  "选择证书"
+}
+{
+  "Clear all labels"
+  "清除所有标签"
+}
+{
+  "Clear all labels from this computer?"
+  "清除此计算机上的所有标签？"
+}
+{
+  "Cloud: Auto Signed In"
+  "云端：自动登录"
+}
+{
+  "Cloud: Signing In Error"
+  "云端：登录错误"
+}
+{
+  "Cloud: User Is Signed In"
+  "云端：用户已登录"
+}
+{
+  "Cloud: User Is Signed Out"
+  "云端：用户已签名"
+}
+{
+  "Connect via Proxy"
+  "通过代理连接"
+}
+{
+  "Connecting"
+  "连接中"
+}
+{
+  "Connecting From"
+  "连接自"
+}
+{
+  "Connection information"
+  "连接信息"
+}
+{
+  "Connection status"
+  "连接状态"
+}
+{
+  "Connection type"
+  "连接类型"
+}
+{
+  "Continue"
+  "继续"
+}
+{
+  "Continue connecting?"
+  "继续连接？"
+}
+{
+  "Control the computer"
+  "控制电脑"
+}
+{
+  "Copyright © 2010-2018 RealVNC® Limited. All rights reserved.\n\nRealVNC and VNC are trademarks of RealVNC Limited and are protected by trademark registrations and/or pending trademark applications in the European Union, United States of America and other jurisdictions.\n\nProtected by UK patents 2481870, 2479756; US patent 8760366; EU patent 2652951."
+  "版权所有 © 2010-2018 RealVNC® Limited. 版权所有。\n\nRealVNC 和 VNC 是 RealVNC Limited 的商标，受欧盟，美国和其他司法管辖区的商标注册和/或待批商标申请的保护。\n\n受英国专利保护 2481870, 2479756；美国专利 8760366；欧盟专利 2652951。\n\n由 酷安@逆风Fanny；Bilibili@云乐_润智；QQ：3112633382 倾情汉化。"
+}
+{
+  "Country"
+  "国家"
+}
+{
+  "Create"
+  "创建"
+}
+{
+  "Create address book entries for your computers, then sign in to see them on any device."
+  "为您的计算机创建通讯簿条目，然后登录以在任何设备上查看它们。"
+}
+{
+  "Custom"
+  "惯例"
+}
+{
+  "Data cleared successfully."
+  "数据清除成功。"
+}
+{
+  "Delete"
+  "删除"
+}
+{
+  "Delete connection?"
+  "删除连接？"
+}
+{
+  "Delete p12 Files"
+  "删除 p12 文件"
+}
+{
+  "Desktop size"
+  "桌面尺寸"
+}
+{
+  "Device Kind"
+  "设备种类"
+}
+{
+  "Device Name"
+  "设备名称"
+}
+{
+  "Diagnostics"
+  "诊断"
+}
+{
+  "Disconnect"
+  "断开"
+}
+{
+  "Disconnect?"
+  "断开？"
+}
+{
+  "Dismiss"
+  "解散"
+}
+{
+  "Display the certificates currently in VNC Viewer's keychain. These are used for multi-factor authentication."
+  "显示当前在 VNC Viewer 的钥匙串中的证书。这些用于多因素身份验证。"
+}
+{
+  "Do not show or allow desktop previews to be updated for connections on this device."
+  "不显示或允许更新此设备上的连接的桌面预览。"
+}
+{
+  "Don't send keys and taps to the server"
+  "不要将密钥和分接头发送到服务器"
+}
+{
+  "Download VNC Connect to your computers to ensure seamless, secure remote access."
+  "下载 VNC Connect 到您的计算机以确保无缝、安全的远程访问。"
+}
+{
+  "Duplicate VNC Server identity"
+  "重复的 VNC 服务器标识"
+}
+{
+  "Dynamic Shortcut"
+  "动态快捷方式"
+}
+{
+  "Edit connection"
+  "编辑连接"
+}
+{
+  "Email"
+  "电子邮件"
+}
+{
+  "Email technical support"
+  "电子邮件技术支持"
+}
+{
+  "Empty connection"
+  "空连接"
+}
+{
+  "Encoding"
+  "编码"
+}
+{
+  "Encryption"
+  "加密"
+}
+{
+  "Enter a verification code."
+  "输入验证码。"
+}
+{
+  "Error"
+  "错误"
+}
+{
+  "Error Message"
+  "错误信息"
+}
+{
+  "Estimated Speed (kbit/s)"
+  "估计速度（kbit/s）"
+}
+{
+  "Estimated speed"
+  "估计速度"
+}
+{
+  "Existing Preview"
+  "现有预览"
+}
+{
+  "Existing connections will disappear until you sign in again.\n\nYou can permanently delete connection passwords, or choose to store them securely until you sign back in."
+  "在您再次登录之前，现有连接将消失。\n\n您可以永久删除连接密码，也可以选择将其安全存储，直到您重新登录为止。"
+}
+{
+  "Expert Option: Clear"
+  "专家选项：清除"
+}
+{
+  "Expert Option: Other"
+  "专家选择：其他"
+}
+{
+  "Expert Option: RFB6 Logging"
+  "专家选项：RFB6 记录"
+}
+{
+  "Expert Options"
+  "专家选项"
+}
+{
+  "\nExpert options: %1$s"
+  "\n专家选项：%1$s"
+}
+{
+  "Extension Key Code"
+  "扩展密钥代码"
+}
+{
+  "False"
+  "假"
+}
+{
+  "Favourites"
+  "最爱"
+}
+{
+  "Filter"
+  "过滤"
+}
+{
+  "Find out how"
+  "了解具体方法"
+}
+{
+  "Forget all sensitive data"
+  "忘记所有敏感数据"
+}
+{
+  "Forget password"
+  "忘记密码"
+}
+{
+  "Forget sensitive data"
+  "忘记敏感数据"
+}
+{
+  "Forgot your password?"
+  "忘记密码了吗？"
+}
+{
+  "Forward"
+  "向前"
+}
+{
+  "Full name (optional)"
+  "全名（可选）"
+}
+{
+  "Get Started"
+  "入门"
+}
+{
+  "Get started with VNC Viewer"
+  "开始使用 VNC Viewer"
+}
+{
+  "Got It!"
+  "得到它了！"
+}
+{
+  "Got it"
+  "得到它了"
+}
+{
+  "Have you downloaded VNC?"
+  "你下载过 VNC 吗？"
+}
+{
+  "Help"
+  "帮助"
+}
+{
+  "Help Title"
+  "帮助标题"
+}
+{
+  "Help URL"
+  "帮助网址"
+}
+{
+  "Help improve VNC Viewer"
+  "帮助改进 VNC Viewer"
+}
+{
+  "Hide Desktop Previews"
+  "隐藏桌面预览"
+}
+{
+  "High"
+  "高"
+}
+{
+  "Home"
+  "主页"
+}
+{
+  "I agree to RealVNC's Terms and Privacy."
+  "我同意 RealVNC 的条款和隐私权。"
+}
+{
+  "Identity Message"
+  "身份信息"
+}
+{
+  "Identity check"
+  "身份检查"
+}
+{
+  "If you encounter a problem, the RealVNC technical support team may require extra information."
+  "如果您遇到问题，RealVNC 技术支持团队可能需要额外的信息。"
+}
+{
+  "If you enjoy using %s, would you mind taking a moment to rate it? It won't take more than a minute.\n\nThanks for your support!"
+  "如果你喜欢使用 %s，你会介意花点时间给它评分吗？它不会超过一分钟。\n\n感谢您的支持！"
+}
+{
+  "Import certificates into VNC Viewer's keychain. To learn how to create a certificate in the right format, visit realvnc.com/certificates."
+  "将证书导入 VNC Viewer 的钥匙串。要了解如何以正确的格式创建证书，请访问realvnc.com/certificates。"
+}
+{
+  "Imported certificate"
+  "导入证书"
+}
+{
+  "In this version:"
+  "在这个版本中："
+}
+{
+  "Incorrect credentials"
+  "凭据不正确"
+}
+{
+  "Info"
+  "信息"
+}
+{
+  "Input"
+  "输入"
+}
+{
+  "Insecure, unencrypted connection"
+  "不安全的，未加密的连接"
+}
+{
+  "Introducing..."
+  "介绍..."
+}
+{
+  "Invalid URL: %s"
+  "网址无效：%s"
+}
+{
+  "Invalid email"
+  "非法电邮"
+}
+{
+  "Is RealVNC Server"
+  "是 RealVNC 服务器"
+}
+{
+  "Is Server ARD"
+  "是服务器 ARD"
+}
+{
+  "Issuer:"
+  "发行者："
+}
+{
+  "It is safe to connect. Do you want to continue?"
+  "连接是安全的。你想继续吗？"
+}
+{
+  "It may not be safe to connect. You won't be warned about this again if you do."
+  "连接可能不安全。如果你这样做，你将不会再被警告。"
+}
+{
+  "It may not be safe to connect. Your authentication credentials will not be transmitted securely."
+  "连接可能不安全。您的身份验证凭据将无法安全传输。"
+}
+{
+  "Just download VNC Connect to computers you want to control, then sign in using your RealVNC® account credentials.\n\nYour computers appear automatically; you no longer have to forward ports and configure routers!"
+  "只需将 VNC Connect 下载到您要控制的计算机，然后使用您的 RealVNC® 帐户凭据登录即可。\n\n您的计算机会自动显示您不再需要转发端口和配置路由器！"
+}
+{
+  "Keep"
+  "保持"
+}
+{
+  "Keyboard"
+  "键盘"
+}
+{
+  "Keyboard settings"
+  "键盘设置"
+}
+{
+  "Labels"
+  "标签"
+}
+{
+  "Landscape"
+  "景观"
+}
+{
+  "Learn more"
+  "学到更多"
+}
+{
+  "Learn more about VNC Connect"
+  "了解有关 VNC Connect 的更多信息"
+}
+{
+  "Left"
+  "左边"
+}
+{
+  "Logging"
+  "记录"
+}
+{
+  "LoggingKey"
+  "记录密钥"
+}
+{
+  "Low"
+  "低"
+}
+{
+  "Low on storage"
+  "存储空间不足"
+}
+{
+  "Marketing"
+  "营销"
+}
+{
+  "Matching VNC Server"
+  "匹配VNC服务器"
+}
+{
+  "Maximum Nested Label Depth"
+  "最大嵌套标签深度"
+}
+{
+  "Message sent"
+  "消息已发送"
+}
+{
+  "Middle"
+  "中"
+}
+{
+  "More entries are available by searching for VNC Server's name."
+  "通过搜索 VNC 服务器的名称可以获得更多条目。"
+}
+{
+  "More information"
+  "更多信息"
+}
+{
+  "Mouse buttons"
+  "鼠标按钮"
+}
+{
+  "My computer"
+  "我的电脑"
+}
+{
+  "NEW:"
+  "新："
+}
+{
+  "Name"
+  "名称"
+}
+{
+  "Natural scrolling"
+  "自然滚动"
+}
+{
+  "Network issue"
+  "网络问题"
+}
+{
+  "New connection"
+  "新的连接"
+}
+{
+  "New in VNC"
+  "VNC 的新功能"
+}
+{
+  "Next"
+  "下一步"
+}
+{
+  "No"
+  "不"
+}
+{
+  "No certificates are present in VNC Viewer's keychain for multi-factor authentication."
+  "VNC Viewer 的钥匙串中没有用于多因素身份验证的证书。"
+}
+{
+  "No certificates have been imported"
+  "没有导入任何证书"
+}
+{
+  "No computers"
+  "没有电脑"
+}
+{
+  "No computers have this label applied"
+  "没有计算机应用此标签"
+}
+{
+  "No connectivity"
+  "没有连接"
+}
+{
+  "No matching computers"
+  "没有匹配的电脑"
+}
+{
+  "No, thanks"
+  "不用了，谢谢"
+}
+{
+  "Non Existent"
+  "不存在"
+}
+{
+  "Not enough space to save logs file. Free up space or disable of perforamnce logging and try again"
+  "没有足够的空间来保存日志文件。释放空间或禁用性能日志记录，然后重试"
+}
+{
+  "Not set"
+  "没有设置"
+}
+{
+  "Number of Certificates"
+  "证书数量"
+}
+{
+  "Number of Certificates Imported"
+  "导入的证书数量"
+}
+{
+  "Number of Matching Certificates"
+  "匹配证书的数量"
+}
+{
+  "OK"
+  "好"
+}
+{
+  "OS Version"
+  "操作系统版本"
+}
+{
+  "Off"
+  "关闭"
+}
+{
+  "Oh, please do send me some marketing emails."
+  "哦，请给我发一些营销电子邮件。"
+}
+{
+  "On"
+  "开启"
+}
+{
+  "One or more teams require you to enable 2-step verification on your account.\nYou must then sign in again to access these teams."
+  "一个或多个团队要求您对帐户启用两步验证。\n然后，您必须再次登录才能访问这些团队。"
+}
+{
+  "Orientation"
+  "方向"
+}
+{
+  "Original name"
+  "原名"
+}
+{
+  "Password"
+  "密码"
+}
+{
+  "Passwords are stored locally and never synced to other devices."
+  "密码存储在本地，永远不会同步到其他设备。"
+}
+{
+  "Performance logging enabled"
+  "启用性能日志记录"
+}
+{
+  "Performance logging is currently enabled, but your device is low on storage. Either disable the option in Beta options, or free up storage and try again."
+  "性能日志记录目前已启用，但您的设备存储空间不足。要么禁用 Beta 选项中的选项，要么释放存储空间并重试。"
+}
+{
+  "Performance logging is turned on which will could use a substantial amount of space. Do you want to continue?"
+  "性能日志记录已启用，可能会占用大量空间。你想继续吗？"
+}
+{
+  "Peripheral devices can now be used to control a connected computer's cursor."
+  "外围设备现在可用于控制连接的计算机光标。"
+}
+{
+  "Phablet"
+  "平板电脑"
+}
+{
+  "Phone"
+  "电话"
+}
+{
+  "Phone (optional)"
+  "电话（可选）"
+}
+{
+  "Picture quality"
+  "图像质量"
+}
+{
+  "Pin State"
+  "指针状态"
+}
+{
+  "Pin locked"
+  "指针锁定"
+}
+{
+  "Pin unlocked"
+  "指针解锁"
+}
+{
+  "Pinned"
+  "置顶"
+}
+{
+  "Pinned Shortcut"
+  "固定快捷方式"
+}
+{
+  "Pixel Format"
+  "像素格式"
+}
+{
+  "Please close your current connection and try again"
+  "请关闭当前连接，然后重试"
+}
+{
+  "Please enter one of your backup codes. The last set of codes was generated on %s."
+  "请输入一个备用验证码。最后一组代码是在 %s 上生成的。"
+}
+{
+  "Please setup an email account on your device."
+  "请在您的设备上设置电子邮件帐户。"
+}
+{
+  "Please sign in again"
+  "请再次登录"
+}
+{
+  "Please update to the latest version of VNC Viewer to continue to use cloud connectivity."
+  "请更新到最新版本的 VNC Viewer 以继续使用云端连接。"
+}
+{
+  "Portrait"
+  "头像"
+}
+{
+  "Preferences for this device prevent desktop previews from being shown or updated. To change this go to Settings > Hide Desktop Previews."
+  "此设备的首选项可防止显示或更新桌面预览。要更改此设置，请转到“设置”>“隐藏桌面预览”。"
+}
+{
+  "Preparing desktop"
+  "准备桌面"
+}
+{
+  "Privacy policy"
+  "隐私政策"
+}
+{
+  "Protocol version"
+  "协议版本"
+}
+{
+  "Proxy settings"
+  "代理设置"
+}
+{
+  "Quickly forget authentication credentials and clear desktop previews."
+  "快速忘记身份验证凭据并清除桌面预览。"
+}
+{
+  "Rate %s"
+  "评分 %s"
+}
+{
+  "Rate on Google Play"
+  "在 Google Play 上评分"
+}
+{
+  "Re-send message"
+  "重新发送消息"
+}
+{
+  "RealVNC Support may request you configure Expert Options for debug purposes."
+  "RealVNC 支持可能会要求您配置专家选项以进行调试。"
+}
+{
+  "RealVNC support"
+  "RealVNC 支持"
+}
+{
+  "Recent"
+  "最近"
+}
+{
+  "Remember password"
+  "记住密码"
+}
+{
+  "Remind Password"
+  "提醒密码"
+}
+{
+  "Remind me later"
+  "稍后提醒我"
+}
+{
+  "Remove"
+  "清除"
+}
+{
+  "Remove current desktop preview?"
+  "清除当前的桌面预览？"
+}
+{
+  "Report a problem"
+  "报告一个问题"
+}
+{
+  "Right"
+  "对"
+}
+{
+  "Save"
+  "保存"
+}
+{
+  "Saved Entry"
+  "保存的条目"
+}
+{
+  "Saved connection."
+  "保存连接。"
+}
+{
+  "Saved credentials are incorrect"
+  "保存的凭据不正确"
+}
+{
+  "Screen Density"
+  "屏幕密度"
+}
+{
+  "Screen Size DP"
+  "屏幕尺寸 DP"
+}
+{
+  "Screen View: About"
+  "屏幕视图：关于"
+}
+{
+  "Screen View: Acknowledgements"
+  "屏幕视图：致谢"
+}
+{
+  "Screen View: Address Book"
+  "屏幕视图：地址簿"
+}
+{
+  "Screen View: Authentication"
+  "屏幕视图：身份验证"
+}
+{
+  "Screen View: Certificate Management"
+  "屏幕视图：证书管理"
+}
+{
+  "Screen View: Certificate Selection"
+  "屏幕视图：证书选择"
+}
+{
+  "Screen View: Desktop"
+  "屏幕视图：桌面"
+}
+{
+  "Screen View: Help"
+  "屏幕视图：帮助"
+}
+{
+  "Screen View: Help Page"
+  "屏幕视图：帮助页面"
+}
+{
+  "Screen View: Identity"
+  "屏幕视图：身份"
+}
+{
+  "Screen View: Information"
+  "屏幕视图：信息"
+}
+{
+  "Screen View: Learn more about Certificate import failure"
+  "屏幕视图：了解有关证书导入失败的更多信息"
+}
+{
+  "Screen View: Learn more about VNC Connect"
+  "屏幕视图：了解有关 VNC Connect 的更多信息"
+}
+{
+  "Screen View: PKCS #12 Password"
+  "屏幕视图：PKCS #12密码"
+}
+{
+  "Screen View: Privacy Policy"
+  "屏幕视图：隐私政策"
+}
+{
+  "Screen View: Security"
+  "屏幕视图：安全性"
+}
+{
+  "Screen View: Settings"
+  "屏幕视图：设置"
+}
+{
+  "Screen View: Summary"
+  "屏幕视图：摘要"
+}
+{
+  "Scroll"
+  "滚动"
+}
+{
+  "Search for connections"
+  "搜索连接"
+}
+{
+  "Secure connection"
+  "安全连接"
+}
+{
+  "Security"
+  "安全"
+}
+{
+  "Security and privacy"
+  "安全和隐私"
+}
+{
+  "Select a computer in your address book and view details to apply this label"
+  "在地址簿中选择一台计算机并查看详细信息以应用此标签"
+}
+{
+  "Select labels"
+  "选择标签"
+}
+{
+  "Send anonymous usage data to improve VNC Viewer"
+  "发送匿名使用数据以改进 VNC Viewer"
+}
+{
+  "Send feedback"
+  "发送反馈"
+}
+{
+  "Send general feedback"
+  "发送一般的反馈"
+}
+{
+  "Settings"
+  "设置"
+}
+{
+  "Shortcut disabled"
+  "禁用快捷方式"
+}
+{
+  "Show certificates"
+  "显示证书"
+}
+{
+  "Showing the toolbar"
+  "显示工具栏"
+}
+{
+  "Side drawer"
+  "侧抽屉"
+}
+{
+  "Side drawer with new team icon"
+  "侧抽屉与新团队图标"
+}
+{
+  "Side drawer with warning icon"
+  "侧抽屉带警告图标"
+}
+{
+  "Sign in"
+  "登录"
+}
+{
+  "Sign in again"
+  "再次登录"
+}
+{
+  "Sign in to your RealVNC account on all your devices to backup and share your address book."
+  "在您的所有设备上登录您的 RealVNC 帐户，以备份和共享您的地址簿。"
+}
+{
+  "Sign in to your RealVNC account to see the computers in your team."
+  "登录您的 RealVNC 帐户，查看您团队中的计算机。"
+}
+{
+  "Sign in using the email address that you used to create your RealVNC account online."
+  "使用您在线创建 RealVNC 帐户时使用的电子邮件地址登录。"
+}
+{
+  "Sign out"
+  "登出"
+}
+{
+  "Signature"
+  "签名"
+}
+{
+  "Signing out of your account will remove all connection entries from this device."
+  "退出您的帐户将删除此设备的所有连接条目。"
+}
+{
+  "Skip"
+  "跳过"
+}
+{
+  "Source"
+  "来源"
+}
+{
+  "Store Passwords"
+  "存储密码"
+}
+{
+  "Subject name:"
+  "主题名称："
+}
+{
+  "Summary Screen"
+  "屏幕摘要"
+}
+{
+  "Support for horizontal scrolling, by dragging two fingers left or right."
+  "通过向左或向右拖动两个手指来支持水平滚动。"
+}
+{
+  "Sync connections between devices"
+  "同步设备之间的连接"
+}
+{
+  "Synchronize address books"
+  "同步地址簿"
+}
+{
+  "Tablet (Large)"
+  "平板电脑（大）"
+}
+{
+  "Tablet (Small)"
+  "平板电脑（小）"
+}
+{
+  "Take control"
+  "控制住"
+}
+{
+  "Tap to forget saved password and desktop preview."
+  "点按即可忘记保存的密码和桌面预览。"
+}
+{
+  "Tap ‘+’ to create a direct connection to a computer you know the IP address or hostname for."
+  "点击“+”以创建与您知道 IP 地址或主机名的计算机的直接连接。"
+}
+{
+  "Tap ‘+’ to create a direct connection to a computer you know the IP address or hostname for.<br/><br/><a href=%1$s>Sign in</a> to your RealVNC account to see the computers in your team."
+  "点击“+”以创建与您知道 IP 地址或主机名的计算机的直接连接。<br/><br/><a href=%1$s>登录</a>到您的 RealVNC 帐户以查看你团队中的计算机。"
+}
+{
+  "Team"
+  "团队"
+}
+{
+  "Terms and conditions"
+  "条款和条件"
+}
+{
+  "Text Hidden"
+  "文字隐藏"
+}
+{
+  "Text Obscured"
+  "文字模糊"
+}
+{
+  "Text Shown"
+  "文字显示"
+}
+{
+  "The connection was closed."
+  "连接已关闭。"
+}
+{
+  "The terms and conditions for your RealVNC account have changed.<br/>\nClick <a href={{URL}}>here</a> to review the new terms and conditions."
+  "您的 RealVNC 帐户的条款和条件已更改。<br/>\n点击<a href={{URL}}>此处</a>查看新条款和条件。"
+}
+{
+  "There appears to be a networking issue, please try again later."
+  "似乎存在网络问题，请稍后再试。"
+}
+{
+  "There aren't any computers in this team at present."
+  "目前该团队中没有任何计算机。"
+}
+{
+  "This certificate cannot be used for authentication."
+  "此证书不能用于身份验证。"
+}
+{
+  "This connection is unencrypted. Would you like to continue?"
+  "此连接未加密。你想继续吗？"
+}
+{
+  "This device is not currently connected to the internet."
+  "此设备目前尚未连接到互联网。"
+}
+{
+  "This helps us make informed decisions about the user experience. Thank you."
+  "这有助于我们对用户体验做出明智的决策。谢谢。"
+}
+{
+  "This will forget all authentication credentials and clear all desktop previews."
+  "这将忘记所有身份验证凭据并清除所有桌面预览。"
+}
+{
+  "This will forget authentication credentials and clear the desktop preview."
+  "这将忘记身份验证凭据并清除桌面预览。"
+}
+{
+  "This will rapidly consume storage. Do you wish to proceed?"
+  "这将迅速消耗存储空间。你要继续吗？"
+}
+{
+  "To see what we added in previous versions of VNC Viewer read our release notes."
+  "要查看我们在以前版本的 VNC Viewer 中添加的内容，请阅读我们的发行说明。"
+}
+{
+  "To show the toolbar again, swipe down from the top of the screen."
+  "要再次显示工具栏，请从屏幕顶部向下滑动。"
+}
+{
+  "Toggle password visibility"
+  "切换密码可见性"
+}
+{
+  "Total Connections Range"
+  "总连接范围"
+}
+{
+  "Total Dynamic Shortuts"
+  "总动态快捷方式"
+}
+{
+  "Total Entries"
+  "总条目数"
+}
+{
+  "Total Number of Labels"
+  "标签总数"
+}
+{
+  "Total Pinned Shortcuts"
+  "总固定快捷方式"
+}
+{
+  "True"
+  "真"
+}
+{
+  "Turn off to stop desktop preview updates."
+  "关闭以停止桌面预览更新。"
+}
+{
+  "Turn off to suppress warnings for connections to this computer."
+  "关闭以禁止连接到此计算机的警告。"
+}
+{
+  "Turn on to observe but not control this computer."
+  "开启将只能观察但不能控制此计算机。"
+}
+{
+  "Two finger scroll gesture"
+  "两个手指滚动手势"
+}
+{
+  "Unable to disable logging."
+  "无法禁用日志记录。"
+}
+{
+  "Unable to enable logging to file."
+  "无法启用日志记录到文件。"
+}
+{
+  "Unencrypted connection"
+  "未加密的连接"
+}
+{
+  "Unexpected attempt to query an invalid cursor."
+  "意外尝试查询无效游标。"
+}
+{
+  "Unknown"
+  "未知"
+}
+{
+  "Unpinned"
+  "取消固定"
+}
+{
+  "Update desktop preview"
+  "更新桌面预览"
+}
+{
+  "Use auto-correct if available"
+  "如果可用，请使用自动修正"
+}
+{
+  "Use your device's screen as a trackpad to accurately control a mouse-driven desktop."
+  "使用设备的屏幕作为触控板，可以精确控制鼠标驱动的桌面。"
+}
+{
+  "User Action: Add Entry"
+  "用户操作：添加条目"
+}
+{
+  "User Action: Auto Correct"
+  "用户操作：自动修正"
+}
+{
+  "User Action: Certificate Import Completed"
+  "用户操作：证书导入已完成"
+}
+{
+  "User Action: Compose Support Email"
+  "用户操作：撰写支持电子邮件"
+}
+{
+  "User Action: Connect To Entry"
+  "用户操作：连接到条目"
+}
+{
+  "User Action: Connecting To An Entry With Active Search"
+  "用户操作：使用搜索连接到条目"
+}
+{
+  "User Action: Delete All Certificates"
+  "用户操作：删除所有证书"
+}
+{
+  "User Action: Delete Certificate"
+  "用户操作：删除证书"
+}
+{
+  "User Action: Deleted Entry"
+  "用户操作：删除条目"
+}
+{
+  "User Action: Editing Entry"
+  "用户操作：编辑条目"
+}
+{
+  "User Action: Extension Key Pressed"
+  "用户操作：按下扩展键"
+}
+{
+  "User Action: Forget All Connections Credentials"
+  "用户操作：忘记所有连接凭据"
+}
+{
+  "User Action: Forget Connection Credentials"
+  "用户操作：忘记连接凭据"
+}
+{
+  "User Action: Hide Desktop Previews"
+  "用户操作：隐藏桌面预览"
+}
+{
+  "User Action: Import Certificates"
+  "用户操作：导入证书"
+}
+{
+  "User Action: Import PKCS #12 Error"
+  "用户操作：导入PKCS #12错误"
+}
+{
+  "User Action: Log Session"
+  "用户操作：记录会话"
+}
+{
+  "User Action: Natural Scrolling"
+  "用户操作：自然滚动"
+}
+{
+  "User Action: Open Side Menu"
+  "用户操作：打开侧栏菜单"
+}
+{
+  "User Action: Overlay Mouse Button Pressed"
+  "用户操作：按下鼠标按钮叠加"
+}
+{
+  "User Action: Picture Quality"
+  "用户操作：图片质量"
+}
+{
+  "User Action: Remind Password"
+  "用户操作：提醒密码"
+}
+{
+  "User Action: Saved Entry"
+  "用户操作：已保存的条目"
+}
+{
+  "User Action: Search Button Pressed"
+  "用户操作：搜索按钮被按下"
+}
+{
+  "User Action: Side Menu About Pressed"
+  "用户操作：侧栏菜单关于被按下"
+}
+{
+  "User Action: Side Menu Feedback Pressed"
+  "用户操作：侧栏菜单反馈被按下"
+}
+{
+  "User Action: Side Menu Find More Pressed"
+  "用户操作：侧栏菜单查找更多被按下"
+}
+{
+  "User Action: Side Menu Help Pressed"
+  "用户操作：侧栏菜单帮助按钮被按下"
+}
+{
+  "User Action: Side Menu Settings Pressed"
+  "用户操作：侧栏菜单设置被按下"
+}
+{
+  "User Action: Side Menu SignIn Pressed"
+  "用户操作：侧栏菜单登录被按下"
+}
+{
+  "User Action: Side Menu SignOut Pressed"
+  "用户操作：侧栏菜单登出被按下"
+}
+{
+  "User Action: SideMenu Filter Pressed"
+  "用户操作：侧栏菜单过滤器被按下"
+}
+{
+  "User Action: Swipe Down To Show Toolbar"
+  "用户操作：向下滑动以显示工具栏"
+}
+{
+  "User Action: Text Obscured"
+  "用户操作：文本模糊"
+}
+{
+  "User Action: Toolbar Pin"
+  "用户操作：工具栏固定"
+}
+{
+  "User Action: Update Preview Automatically"
+  "用户操作：自动更新预览"
+}
+{
+  "User Action: View Only Mode"
+  "用户操作：仅查看模式"
+}
+{
+  "UserAction: Keyboard Overlay"
+  "用户操作：键盘叠加"
+}
+{
+  "UserAction: Mouse Overlay"
+  "用户操作：鼠标叠加"
+}
+{
+  "Username"
+  "用户名"
+}
+{
+  "VNC Connection: Bluetooth Keyboard"
+  "VNC 连接：蓝牙键盘"
+}
+{
+  "VNC Connection: Bluetooth Mouse"
+  "VNC 连接：蓝牙鼠标"
+}
+{
+  "VNC Connection: Preferences"
+  "VNC 连接：首选项"
+}
+{
+  "VNC Connection: Started"
+  "VNC 连接：已启动"
+}
+{
+  "VNC Connection: Time Until First Framebuffer Update"
+  "VNC 连接：第一次帧缓冲更新的时间"
+}
+{
+  "VNC Server"
+  "VNC 服务器"
+}
+{
+  "VNC Server identity check failed"
+  "VNC 服务器身份检查失败"
+}
+{
+  "VNC Server identity check suceeded"
+  "VNC 服务器身份检查成功"
+}
+{
+  "VNC Server is no longer presenting an identity."
+  "VNC 服务器不再显示身份。"
+}
+{
+  "\n\nVNC Server manufacturer: %4$s\nVNC Server version: %4$s\nOS running VNC Server: %4$s\n\nApplication version: %1$s\nModel: %2$s\nSystem version: %3$s"
+  "\n\nVNC 服务器制造商：%4$s\nVNC 服务器版本：%4$s\n运行 VNC 服务器的操作系统：%4$s\n\n应用程序版本：%1$s\n型号：%2$s\n系统版本：%3$s"
+}
+{
+  "VNC Server must be running on the computer you want to control."
+  "VNC 服务器必须在您要控制的计算机上运行。"
+}
+{
+  "VNC Server not recognized"
+  "VNC 服务器无法识别"
+}
+{
+  "VNC Server's identity has been automatically verified by RealVNC online services."
+  "VNC 服务器的身份已由 RealVNC 在线服务自动验证。"
+}
+{
+  "VNC Server's identity has changed since you last connected to it."
+  "自您上次连接 VNC 服务器以来，VNC 服务器的身份已发生变化。"
+}
+{
+  "VNC Viewer debug log found. Would you like to attach it to your email?"
+  "找到 VNC Viewer 调试日志。您想将它附加到您的电子邮箱吗？"
+}
+{
+  "VNC Viewer for Android support enquiry"
+  "Android 上的 VNC Viewer 支持查询"
+}
+{
+  "VNC Viewer has no record of connecting to this VNC Server, but its identity matches that of another known VNC Server."
+  "VNC Viewer 没有连接到此 VNC 服务器的记录，但其标识与另一个已知 VNC 服务器的标识相匹配。"
+}
+{
+  "VNC Viewer has no record of connecting to this VNC Server, so its identity cannot be checked."
+  "VNC Viewer 没有连接到此 VNC 服务器的记录，因此无法检查其身份。"
+}
+{
+  "VNC Viewer is connected"
+  "VNC Viewer 已连接"
+}
+{
+  "VNC Viewer is connecting"
+  "VNC Viewer 正在连接"
+}
+{
+  "VNC Viewer is too old"
+  "VNC Viewer 太旧了"
+}
+{
+  "VNC Viewer is view only. To control this computer, tap 'i' on the toolbar and turn off 'View only'."
+  "VNC Viewer 仅供查看。要控制此计算机，请点按工具栏上的“i”，然后关闭“仅查看”。"
+}
+{
+  "VNC Viewer will show this for each new computer you connect to"
+  "VNC Viewer 将为您连接的每台新计算机显示此信息"
+}
+{
+  "VNC connection"
+  "VNC 连接"
+}
+{
+  "Valid from:"
+  "有效期："
+}
+{
+  "Valid until:"
+  "有效期至："
+}
+{
+  "Version"
+  "版本"
+}
+{
+  "View only"
+  "只看"
+}
+{
+  "Warn me every time"
+  "每次都警告我"
+}
+{
+  "We think we already know this address. We've sent you an email to help us verify your account before we do something silly like add you again. Once you've verified your email and created your account on the web, please come back and sign in."
+  "我们认为我们已经知道了这个地址。我们已经向您发送了一封电子邮件，以帮助我们验证您的帐户，然后我们再做一些愚蠢的事情。在您验证电子邮件并在网络上创建帐户后，请返回并登录。"
+}
+{
+  "We've sent a message to %s.\n\nPlease follow the instructions there to continue."
+  "我们已向 %s 发送了一条消息。\n\n请按照那里的说明继续。"
+}
+{
+  "What's new in VNC Viewer"
+  "VNC Viewer 中有什么新功能"
+}
+{
+  "When enabled, VNC connections will be routed via the system proxy, if one is set up for the current network. If connections fail, try disabling this setting since your proxy may block VNC traffic."
+  "启用后，如果为当前网络设置了 VNC 连接，则将通过系统代理路由 VNC 连接。如果连接失败，请尝试禁用此设置，因为您的代理可能会阻止 VNC 流量。"
+}
+{
+  "When enabled, an upward gesture moves content up. When disabled, an upward gesture moves content down."
+  "启用后，向上手势会向上移动内容。禁用时，向上手势会向下移动内容。"
+}
+{
+  "When enabled, log files will be available in <device home directory>%s the next time you connect your device."
+  "启用后，下次连接设备时，<设备根目录>%s 中将显示日志文件。"
+}
+{
+  "When enabled, you will be able to use auto-correct and predictive text (depending on keyboard support)."
+  "启用后，您将能够使用自动修正和预测文本（取决于键盘支持）。"
+}
+{
+  "With Address"
+  "带地址"
+}
+{
+  "With Name"
+  "带姓名"
+}
+{
+  "Yes"
+  "是"
+}
+{
+  "You are attempting to connect to %s"
+  "您正在尝试连接到 %s"
+}
+{
+  "You are attempting to connect to %s as user %s"
+  "您正尝试以 %s 用户身份连接到 %s"
+}
+{
+  "You are connecting to Apple Screen Sharing, but there is no guarantee this computer is the one you intended to connect to, and the connection won't be encrypted."
+  "您正在连接到 Apple 屏幕共享，但无法保证此计算机是您要连接的计算机，并且该连接不会被加密。"
+}
+{
+  "You have been signed out remotely. Please sign in again to browse your saved connections."
+  "您已远程退出。请再次登录以浏览已保存的连接。"
+}
+{
+  "You must enable 2-step verification for your RealVNC account to access the computers in this team.<br/><br/><a href={{URL}}>See how to enable 2-step verification.</a>"
+  "您必须为 RealVNC 帐户启用两步验证才能访问此团队中的计算机。<br/><br/><a href={{URL}}>了解如何启用两步验证。</a>"
+}
+{
+  "You won't be warned about this again."
+  "你不会再被警告了。"
+}
+{
+  "Your connection is awaiting attention."
+  "你的连接正在等待你的动作。"
+}
+{
+  "Your email account has changed"
+  "您的电子邮件帐户已更改"
+}
+{
+  "Your password has changed"
+  "您的密码已更改"
+}
+{
+  "eg. %s"
+  "例如. %s"
+}
+{
+  "Forgotten your password?"
+  "忘记密码了？"
+}
+{
+  "Analytics"
+  "Analytics（分析）"
+}
