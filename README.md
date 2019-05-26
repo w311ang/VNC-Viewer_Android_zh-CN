@@ -33,7 +33,7 @@ VNC Viewer (Android) 汉化
 |更新日期|2019 年 5 月 23 日
 |主要翻译人员|润智RZ ([@w311ang](https://github.com/w311ang))
 |使用项目/工具|[`MT 管理器`](http://binmt.cc)([`Google 翻译`](https://translate.google.com))
-|类型|Google 翻译 + 个人修改
+|类型|机器翻译 + 较验修正
 >以上均是修改后取得的数据。
 
 翻译进度
