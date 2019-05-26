@@ -42,7 +42,7 @@ VNC Viewer (Android) 汉化
 |主界面|:heavy_check_mark: 已完成|-
 |HTML 帮助|:heavy_check_mark: 已完成|-
 |电脑操控界面|:heavy_check_mark: 已完成|-
-|连接界面|:x: 未完成 (95%)|无字符串可供汉化。
+|连接界面|:x: 未完成 (95%)|未找到字符串可供汉化。
 |通知|:heavy_check_mark: 已完成|-
 
 MT 管理器字典
