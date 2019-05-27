@@ -39,13 +39,13 @@ VNC Viewer (Android) 汉化
 
 翻译进度
 ------
-|部分|完成情况|备注
-|--|--|--
-|主界面|:heavy_check_mark: 已完成|-
-|HTML 帮助|:heavy_check_mark: 已完成|-
-|电脑操控界面|:heavy_check_mark: 已完成|-
-|连接界面|:x: 未完成 (95%)|未找到字符串可供汉化。
-|通知|:heavy_check_mark: 已完成|-
+|存储方式|备注|
+|--|--
+|[GitHub](https://github.com/yunles/VNC-Viewer-Android-chinese/releases/download/2019.05.23/VNC_Viewer_20190523.apk)|推荐，采用实时更新的更新模式，国内用户下载速度较慢。
+|[蓝奏云](https://www.lanzous.com/b743556/) (密码: `eiyd`)|采用至少 24 小时内跟进的更新模式，国内用户下载速度较快。
+|[百度网盘](https://pan.baidu.com/s/1x8wMq2xPjH8CE0dpxAPmTQ) (密码: `yunl`)|采用至少 48 小时内跟进的更新模式，可保存到自己的百度网盘。
+|[微云](https://share.weiyun.com/5u0ijHC) (密码: `xv9q6n`)|采用至少 1 周内跟进的更新模式，可直接分享给自己的`QQ 好友`。
+|[Google Drive](https://drive.google.com/open?id=165SdLUBD-JxSzHPMpOlmzATmiPNn3bfs)|采用至少 1 周内跟进的更新模式，仅境外用户可用。
 
 MT 管理器字典
 ------
