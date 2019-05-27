@@ -7,7 +7,7 @@ VNC Viewer (Android) 汉化
 |图标|![](res/drawable-xxxhdpi-v4/icon.png)
 |应用名|VNC Viewer
 |包名|com.realvnc.viewer.android
-|语言|en-GB `英语(英国)`
+|语言|en `英语`
 |版本号|3.5.0.40825
 |开发者|[RealVNC Limited](https://www.realvnc.com)
 |更新日期|2019 年 3 月 26 日
