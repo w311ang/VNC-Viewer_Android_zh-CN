@@ -7,11 +7,12 @@ VNC Viewer (Android) 汉化
 |图标|![](res/drawable-xxxhdpi-v4/icon.png)
 |应用名|VNC Viewer
 |包名|com.realvnc.viewer.android
-|语言|英语
+|语言|en-GB `英语(英国)`
 |版本号|3.5.0.40825
 |开发者|[RealVNC Limited](https://www.realvnc.com)
 |更新日期|2019 年 3 月 26 日
 |体积|12 MB
+>本项目所出现的`语言`类型均遵守[`语言代码表`](http://www.lingoes.cn/zh/translator/langcode.htm)的语言代码格式。
 ****
 应用市场
 ------
@@ -28,13 +29,13 @@ VNC Viewer (Android) 汉化
 ------
 |类型|内容|
 |--|--
-|语言|中文简体 (汉语)
+|语言|zh-CN `中文(简体)`
 |体积|12.43 MB
 |更新日期|2019 年 5 月 23 日
 |主要翻译人员|润智RZ ([@w311ang](https://github.com/w311ang))
 |使用项目/工具|[`MT 管理器`](http://binmt.cc)([`Google 翻译`](https://translate.google.com))
 |类型|机器翻译 + 较验修正
->以上均是修改后取得的数据。
+>以上是修改后的数据。
 
 翻译进度
 ------
